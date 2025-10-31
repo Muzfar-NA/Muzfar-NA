@@ -1,3 +1,4 @@
+![header](Banner.png)
 # On a learning adventure
 
 Software engineering student at Edinburgh napier university
