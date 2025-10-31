@@ -1,4 +1,11 @@
-## Hi there 👋
+# On a learning adventure
+
+Software engineering student at Edinburgh napier university
+<h2>GOALS</h2>
+<ul>
+<li>completing my academic program</li>
+<li>Learning about ML</li>
+</ul>
 
 <!--
 **Muzfar-NA/Muzfar-NA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
