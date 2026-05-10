@@ -1,20 +1,28 @@
-## ✨ *On a Learning Adventure!*
+# Hi, I'm Muzfer 👋
 
-Software engineering student at Edinburgh napier university
-<h2>GOALS</h2>
-<ul>
-<li>completing my academic program</li>
-<li>Learning about ML</li>
-</ul>
-<details>
-<summary><h3>More details</h3></summary>
-I have achieved a NPA in cyber security and software development aswell as <br>
-a HNC qualification in computing science at West Lothian college.<br>
-I am currently indepndatly working on learning more about machine learning, <br>
-to hopefully have the skills to build my own model in the near future.
-</details>
+Software Engineering student at Edinburgh Napier University.
 
-### Links
+## 🚀 About Me
+- Interested in Machine Learning & Backend Development
+- Currently learning Python, ML, and Software Architecture
+- Building projects to improve problem-solving skills
 
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Muzafer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzafer-abdelmonem-21ba6a36b/)
+## 🛠 Tech Stack
+- Python
+- Java
+- JavaScript
+- Git & GitHub
+- SQL
+
+## 📌 Featured Projects
+### ML Image Classifier
+Short description here.
+
+### Task Manager API
+Short description here.
+
+## 📈 GitHub Stats
+(add stats cards)
+
+## 📫 Connect With Me
+LinkedIn | GitLab
