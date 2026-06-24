@@ -1,4 +1,4 @@
-# Hi, I'm Muzfer 👋
+# Hi, I'm Muzafer 👋
 
 Software Engineering student at Edinburgh Napier University.
 
